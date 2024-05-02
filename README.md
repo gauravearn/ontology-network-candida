@@ -10,7 +10,7 @@ candidaGORelationAnalyzer("/Users/gauravsablok/Desktop/CodeCheck/broad/goslim_ca
  'GO:0042493',
  'is_a: GO:0042221 | response to chemical']
 ```
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
